@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : Hash.cpp
-// Author      : Arpit Patil
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
 #include<iostream>
 #define max 10
 #include<string.h>
